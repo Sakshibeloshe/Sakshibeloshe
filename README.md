@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi beloshe</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A tech-enthusiasts and a passionate learner.</h3>
 
 - 🔭 I’m currently working on [ProjX](https://github.com/Sakshibeloshe/ProjX)
 
