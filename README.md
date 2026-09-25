@@ -4,7 +4,6 @@
 - 🚀 Currently building **[Cyster](https://testflight.apple.com/join/5gXW68Jn)** — an AI health platform with a 3-phase LLM/RAG pipeline, patent filed, live with real users
 - 💳 Co-Founder & CEO at **PayChan** — phone-free biometric payments on UPI
 - 🏆 Apple WWDC Swift Student Challenge 2026 Winner — **[ViCa](https://github.com/Sakshibeloshe/ViCa)**, a proximity networking app built solo across iOS and Android
-- 🔭 Also working on [ProjX](https://github.com/Sakshibeloshe/ProjX)
 - 🌱 Currently deepening my agentic AI / RAG engineering work
 - 📫 Reach me at **beloshe.sakshi04@gmail.com**
 - ⚡ Fun fact: my interests outside tech are the 3 F's — food, fashion, and film — alongside a habit of falling down random rabbit holes in politics, history, psychology, and science
